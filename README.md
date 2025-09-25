@@ -3,15 +3,14 @@
 <table>
   <tr>
     <td width="50%">
-      An **ESP32-based Telegram bot** that can remotely power on your PC using **Wake-on-LAN (WOL)** magic packets.  
+      An <b>ESP32-based Telegram bot</b> that can remotely power on your PC using <b>Wake-on-LAN (WOL)</b> magic packets.  
       This project turns a low-power ESP32 dev board into a dedicated device for waking your PC from anywhere, controlled securely through your personal Telegram account.
     </td>
     <td width="50%">
-      <img src="./images/logo.jpeg" alt="Logo" width="50%" height="500%">
+      <img src="./images/logo.jpeg" alt="Logo" width="50%" height="50%">
     </td>
   </tr>
 </table>
----
 
 ## 🚀 Features
 - Wake your PC from anywhere with `/wol` command  
