@@ -1,4 +1,7 @@
 # ESP32 Wake-on-LAN Telegram Bot
+<p align="center">
+  <img src="./images/logo.jpeg" alt="Logo" width="400"/>
+</p>
 
 An **ESP32-based Telegram bot** that can remotely power on your PC using **Wake-on-LAN (WOL)** magic packets.  
 This project turns a low-power ESP32 dev board into a dedicated device for waking your PC from anywhere, controlled securely through your personal Telegram account.
@@ -24,7 +27,7 @@ This project turns a low-power ESP32 dev board into a dedicated device for wakin
 - In Arduino IDE, select **Board → ESP32 Arduino → DOIT ESP32 DEVKIT V1**  
 
 Here’s how the Arduino IDE looks once configured:  
-![Arduino IDE Setup](./assets/arduino-setup.png)
+![Arduino IDE Setup](./images/arduino-setup.jpeg)
 
 ---
 
@@ -62,7 +65,7 @@ Update the `.ino` file with your credentials (use placeholders before pushing to
 * Open Serial Monitor to confirm WiFi + Telegram connection
 
 Here’s the ESP32 board used in this project:
-![ESP32 Board](./assets/esp32-board.png)
+![ESP32 Board](./images/esp32-board.jpeg)
 
 ---
 
@@ -74,7 +77,7 @@ Once powered, the ESP32 automatically connects to WiFi + Telegram and listens fo
 * `/wol` → sends the magic packet, waking up your PC
 
 Example bot interaction:
-![Telegram Bot](./assets/telegram-demo.png)
+![Telegram Bot](./images/telegram-demo.jpeg)
 
 ---
 
@@ -82,13 +85,7 @@ Example bot interaction:
 
 Here’s a live demo of the project in action:
 
-<video src="./assets/video.mp4" controls autoplay muted></video>
-
----
-
-## 🎨 Project Logo
-
-![Logo](./assets/logo.png)
+<video src="./images/video.mp4" controls autoplay muted></video>
 
 ---
 
