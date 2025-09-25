@@ -89,7 +89,7 @@ Example bot interaction:
 
 Here’s a live demo of the project in action:
 
-<video src="./images/video.mp4" controls autoplay muted></video>
+[![Watch the video](https://img.youtube.com/vi/fOirqvQiiFo/maxresdefault.jpg)](https://youtu.be/fOirqvQiiFo)
 
 ---
 
